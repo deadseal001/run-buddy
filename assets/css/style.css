@@ -137,3 +137,17 @@ header {
     margin: 0 auto;
   }
   /* what we do ends*/
+
+  /* what you do starts */
+  .steps {
+    text-align: center;
+    background: #fce138;
+  }
+  .steps h2 {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    border-color: #39a6b2;
+  }
