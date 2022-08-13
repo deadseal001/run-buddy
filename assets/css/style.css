@@ -116,7 +116,7 @@ header {
   }
   /* HERO STYLES END */
 
-  /* what we do*/
+  /* what we do starts*/
   .intro {
     text-align: center;
   }
@@ -136,3 +136,4 @@ header {
     font-size: 20px;
     margin: 0 auto;
   }
+  /* what we do ends*/
