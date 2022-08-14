@@ -184,6 +184,9 @@ header {
     color: #fce138;
     overflow: auto;
   }
+  .trainers {
+    text-align: center;
+  }
   .text-right img {
     width: 35%;
     float: left;
@@ -230,14 +233,14 @@ header {
 
   .contact h2 {
     color: #fce138;
-    text-align: center;
   }
 
   .contact-info iframe {
     width: 400px;
     height: 400px;
   }
-  .contact-info {
+
+  .contact-info div {
     width: 410px;
     display: inline-block;
     vertical-align: top;
@@ -250,7 +253,8 @@ header {
     font-size: 32px;
   }
   
-  .contact-info p, .contact-info address {
+  .contact-info p, 
+  .contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
